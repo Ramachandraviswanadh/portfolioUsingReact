@@ -1,0 +1,13 @@
+.candidate-name {
+	font-size: 5em;
+	margin: 0;
+}
+
+.candidate-email, .candidate-phone {
+	margin: 0 0 5px;
+}
+
+.candidate-github,.candidate-phone{
+    margin: 10px;
+    display: inline-block;
+}
